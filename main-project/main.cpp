@@ -1,7 +1,12 @@
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "Володько Максим Сергеевич (в лабе нет изменённой программы)";
+    cout << "Laboratory work #8. GIT\n";
+    cout << "Variant #0. Library Subscription\n";
+    cout << "Author: Sergey Yermochenko\n";
+    cout << "Group: XX\n";
     return 0;
 }
