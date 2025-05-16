@@ -14,6 +14,6 @@ int main()
     cout << "Laboratory work #8. GIT\n";
     cout << "Variant #0. Library Subscription\n";
     cout << "Author: Sergey Yermochenko\n";
-    cout << "Group: 24ÏÈíæ1ç\n";
+    cout << "Group: 24ÏÎÈÒ1ç\n";
     return 0;
 }
